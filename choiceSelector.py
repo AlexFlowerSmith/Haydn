@@ -67,7 +67,7 @@ def selector():
     fastprint("LOADING ANSWER...........")
     fastprint("IT'S CUMMING..........")
     clear()
-    print(tehAnswer + ":)\n")
+    print(tehAnswer + " :)\n")
 
 
 
