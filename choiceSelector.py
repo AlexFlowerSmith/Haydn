@@ -42,7 +42,7 @@ def selector():
     optionOne = str(input("First Option:\n> "))
     optionTwo = str(input("Second Option:\n> "))
     optionThree = str(input("Third Option:\n> "))
-    secretOption = "Mine Sweeper"
+    secretOption = "Mine Sweeper\n HA HA HA BIG BEAN "
     tehArray = [optionOne, optionTwo, optionThree, secretOption]
     tehAnswer = random.choice(tehArray)
 
