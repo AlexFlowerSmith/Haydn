@@ -5,4 +5,4 @@ STEP 3: MAKE SURE 'PIP' IS TICKED   < Pip is a python package manager, so it wil
 STEP 4: "ALL USERS" can be turned off
 STEP $: "IDLE" make sure is ticked  < This is the Python program to let you write your own code. It might have something to do with running other code? Idk 
 
-STEP 5: Right click on your new program and click run in CMD or something whatever seems obvious
+STEP 5: Right click on your downloaded python file and click run in CMD or something whatever seems obvious
